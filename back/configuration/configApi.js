@@ -11,4 +11,4 @@ exports.MATCHDET = "match/v4/matches/";
 exports.MATCHFRA = "match/v4/timelines/by-match/";
 
 // KEYS
-exports.APIKEY = "RGAPI-4e7d8fc2-9b63-4cbe-b64c-298c0f5d3c40";
+exports.APIKEY = "INSERT YOUR API KEY HERE";
